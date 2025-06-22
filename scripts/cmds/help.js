@@ -97,8 +97,8 @@ module.exports = {
   ├── Usage
   │ ${usage}
   ├── Notes
-  │ THIS BOT HAS BEEN MADE BY MR᭄﹅ MAHABUB﹅ メꪜ
-  │ FOR ANY HELP YOU CAN CONTACT OWNER: https://www.facebook.com/www.xnxx.com140
+  │ THIS BOT HAS BEEN MADE 𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ
+  │ FOR ANY HELP YOU CAN CONTACT OWNER: https://www.facebook.com/100049032581944
   ╰━━━━━━━❖`;
 
         await message.reply(response);
