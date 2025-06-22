@@ -26,7 +26,7 @@ module.exports = {
       const reply = `📅 **Date & Time in Dhaka, Bangladesh**\n` +
         `❏ **Date:** ${now.format("dddd, DD MMMM YYYY")}\n` +
         `❏ **Time:** ${now.format("h:mm:ss A")} (UTC+6)\n` +
-        `❏ **Author:** MR᭄﹅ MAHABUB﹅ メꪜ`;
+        `❏ **Author:** 𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ`;
 
       // Image URL (Your Imgur link)
       const imageUrl = "https://i.imgur.com/Ms7z3y0.jpeg";
