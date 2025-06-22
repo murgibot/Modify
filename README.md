@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gallery/mehedi-bot-cJe02NR">
+<img src="https://imgur.com/mehedi-bot-cJe02NR">
 <h1 align="center"><img src="https://imgur.com/gallery/mehedi-bot-cJe02NR" width="22px">MEHEDI BOT</h1
 
 
