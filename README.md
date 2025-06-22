@@ -1,5 +1,5 @@
 <img src="https://imgur.com/gallery/mehedi-bot-cJe02NR">
-<h1 align="center"><img src="https://imgur.com/gallery/mehedi-bot-cJe02NR" width="22px"> MAHABUB BOT</h1
+<h1 align="center"><img src="https://imgur.com/gallery/mehedi-bot-cJe02NR" width="22px">MEHEDI BOT</h1
 
 
 ## C3C FBstate
