@@ -43,7 +43,7 @@ module.exports = {
 
 ━❯ UPTIME: ${days} দিন, ${hours} ঘন্টা, ${minutes} মিনিট ${seconds} সেকেন্ড
 ━━━━━━━━━━━━━━━━━━━━━━
-━❯ 𝗠𝗔𝗛𝗔𝗕𝗨𝗕 𝗥𝗔𝗛𝗠𝗔𝗡
+━❯ 𝕄𝔼ℍ𝔼𝔻𝕀 HASAN
 ━❯ BOT NAME: MAHABUB-BOT
 ━❯ PREFIX: 【/】
 ━❯ OS: ${os.platform()} ${os.release()}
