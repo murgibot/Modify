@@ -18,7 +18,7 @@ module.exports = {
 		const senderID = event.senderID;
 
 		const loadingMessage = await message.reply({
-			body: "Loading random fuÇk v1d30... Please wait! upto 5min MR᭄﹅ MAHABUB﹅ メꪜ",
+			body: "Loading random fuÇk v1d30... Please wait! upto 5min 𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ",
 		});
 
 		const link = [
