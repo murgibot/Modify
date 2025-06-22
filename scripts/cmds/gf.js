@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "gf",
     version: "1.4",
-    author: "MAHABUB RAHMAN",
+    author: "MEHEDI HASAN",
     countDown: 5,
     role: 0,
     shortDescription: "Send GF pic with title",
