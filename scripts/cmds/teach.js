@@ -8,10 +8,10 @@ module.exports.config = {
     name: "teach",
     aliases: ["learn"],
     version: "1.0.0",
-    author: "MR᭄﹅ MAHABUB﹅ メꪜ",  
+    author: "𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ",  
     countDown: 0,
     role: 0,
-    description: "Teach Mahabub simsimi api new responses!",  
+    description: "Teach Mehedi simsimi api new responses!",  
     category: "chat",
     guide: {
         en: "{pn} [message] - [reply]"
@@ -42,7 +42,7 @@ module.exports.onStart = async ({ api, event, args }) => {
 
      if (response.data && response.data.message) {
             // Show the message returned by the API
-            return api.sendMessage(`✅ MR᭄﹅ MAHABUB﹅ メꪜ: "${teachMessage}" → ${response.data.message}`, event.threadID, event.messageID);
+            return api.sendMessage(`✅ 𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ: "${teachMessage}" → ${response.data.message}`, event.threadID, event.messageID);
         } else {
             return api.sendMessage('❌ | There was an issue teaching the bot. Please try again!', event.threadID, event.messageID);
         }
