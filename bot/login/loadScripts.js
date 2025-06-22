@@ -50,7 +50,7 @@ module.exports = async function (_0x423297, _0xce5d8c, _0x543fe1, _0x40a3c5, _0x
   let _0x15552a;
   let _0x15df96;
   for (const _0x50f23c of _0x8d8a9b) {
-    const _0x5cbdca = _0x50f23c == "cmds" ? _0x3d33a0("MR᭄﹅ MAHABUB﹅ メꪜ LOAD COMMANDS") : _0x3d33a0("MR᭄﹅ MAHABUB﹅ メꪜ LOAD COMMANDS EVENT");
+    const _0x5cbdca = _0x50f23c == "cmds" ? _0x3d33a0("𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ LOAD COMMANDS") : _0x3d33a0("𝕄𝔼ℍ𝔼𝔻𝕀﹅ メꪜ LOAD COMMANDS EVENT");
     console.log(colors.hex("#f5ab00")(_0x5cbdca));
     if (_0x50f23c == "cmds") {
       _0x2b5a43 = "command";
