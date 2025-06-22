@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/KIi7lSn.gif" alt="banner">
+<img src="https://imgur.com/gallery/mehedi-bot-cJe02NR">
 <h1 align="center"><img src="https://avatars.githubusercontent.com/u/190441700?v=4" width="22px"> MAHABUB BOT</h1
 
 
