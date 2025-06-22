@@ -3,9 +3,9 @@ const axios = require("axios");
 module.exports = {
   config: {
     name: "rndm",
-    aliases: ["mahabub", "rndm", "random", "status"],
+    aliases: ["mehedi", "rndm", "random", "status"],
     version: "2.2",
-    author: "‎MR᭄﹅ MAHABUB﹅ メꪜ",
+    author: "‎Mehedi hasan﹅ メꪜ",
     countDown: 1,
     role: 0,
     shortDescription: "Sends random videos",
@@ -24,7 +24,7 @@ module.exports = {
 
     const messageText = body.trim().toLowerCase();
 
-    if (["rndm", "mahabub", "random", "status"].includes(messageText)) {
+    if (["rndm", "mehedi", "random", "status"].includes(messageText)) {
       await sendAnimeVideo(api, event, message);
     }
   }
@@ -37,7 +37,7 @@ async function sendAnimeVideo(api, event, message) {
 
   message.reply("🔄 Fetching a random status video... Please wait!");
 
-  const jsonUrl = "https://raw.githubusercontent.com/MR-MAHABUB-004/MAHABUB-BOT-STORAGE/main/Commands/Rndm/rndm.json";
+  const jsonUrl = "https://raw.githubusercontent.com/MEHEDI-HASAN/MEHEDI-BOT-STORAGE/main/Commands/Rndm/rndm.json";
 
   try {
     const response = await axios.get(jsonUrl);
