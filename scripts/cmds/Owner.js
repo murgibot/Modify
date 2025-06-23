@@ -35,7 +35,7 @@ module.exports = {
     const _0x3b754f = "╔╝❮" + _0x8f4cd + "❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝕄𝔼ℍ𝔼𝔻𝕀 𝐑𝐀𝐇𝐌𝐀𝐍\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: CUMILLA,𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 18\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝐅𝐀𝐈𝐋𝐃\n𝐖𝐎𝐑𝐊: 𝐆𝐑𝐎𝐂𝐄𝐑𝐘 𝐒𝐇𝐎𝐏\n𝐆𝐌𝐀𝐈𝐋: mdnazrulislam7t9@gmail.com \n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://m.me/100049032581944  \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100014754734049\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801613356376\n𝐈𝐌𝐎: 𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋🫣\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: t.me/Mehedi_x_hasan\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( . )\nBot Name: Mehedi BOT\ngc Name: " + _0x47034c + "\nTime:【 " + _0x27ce82 + " || " + _0x3ac793 + " \n━━━━━━━━━━━━━━━━━━━━━━";
     _0x3b0c92.reply({
       'body': _0x3b754f,
-      'attachment': await global.utils.getStreamFromURL("https://graph.facebook.com/100014754734049/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662")
+      'attachment': await global.utils.getStreamFromURL("https://i.postimg.cc/rpNLdr8k/wgcz9b-1.gif")
     });
   }
 };
